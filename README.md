@@ -1,8 +1,11 @@
 question 1
 1. trust free ecommerce
-2.
+2. 
 + Blochchain
-+ Litter
++ Literature review 
++ Sharing economy 
++ Trust 
++ Trust-free system
 
 | Program name | software manufacturer | software version | software type |
 | ------------ | --------------------- | ---------------- | ------------- |
